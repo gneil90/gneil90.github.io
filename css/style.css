@@ -151,9 +151,11 @@ ul {
 
 .biopic {
   float: left;
-  padding: 10px;
+  border: 1px solid white;
+  margin: 10px;
   width: 200px;
   display: none;
+  padding: 0px;
 }
 
 img {
